@@ -10,6 +10,7 @@
   "scripts": {
     "server": "http-server ./out",
     "build": "babel src/ -d lib/",
+    "dev": "yarn build && node index.js",
     "type": "yarn flow status",
     "test": "nyc ava -v",
     "doctor": "yarn build && yarn type && yarn test",
