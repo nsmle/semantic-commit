@@ -1,0 +1,13 @@
+## Commit Type
+commit.type.chore="tugas"
+commit.type.docs="dokumentasi"
+commit.type.feat="prestasi"
+commit.type.fix="perbaikan"
+commit.type.refactor="refactor"
+commit.type.style="style"
+commit.type.test="pengujian"
+commit.type.default="perbaikan"
+commit.type.hint="Pilih jenis dari commit:"
+
+## Commit Message
+commit.message.hint="Commit message nya:"

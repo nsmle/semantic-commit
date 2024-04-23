@@ -1,0 +1,7 @@
+{
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "files.associations": {
+    "src/i18n/*.*": "Properties"
+  }
+}

@@ -1,0 +1,13 @@
+## Commit Type
+commit.type.chore="tarefa"
+commit.type.docs="documentação"
+commit.type.feat="funcionalidade"
+commit.type.fix="correção"
+commit.type.refactor="refatoração"
+commit.type.style="estilo"
+commit.type.test="teste"
+commit.type.default="correção"
+commit.type.hint="Escolha o tipo do commit:"
+
+## Commit Message
+commit.message.hint="Escreva a mensagem do commit:"
